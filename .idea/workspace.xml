@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87badeef-d8c7-40a1-ac4b-bdb9e0508de8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_web_08pip.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/connection/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/connection/connect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/authors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/qoutes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainV1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainV2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/produser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seed/seed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/consumer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/produser.py" afterDir="false" />
+    <list default="true" id="87badeef-d8c7-40a1-ac4b-bdb9e0508de8" name="Changes" comment="first try">
+      <change afterPath="$PROJECT_DIR$/connection/readmy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.connect.executor": "Run",
-    "Python.consumer.executor": "Run",
-    "Python.find_tag.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mainV2.executor": "Run",
-    "Python.models.executor": "Run",
-    "Python.produser.executor": "Run",
-    "Python.seed.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kozlovalex/Documents/GitHub/python_web_08pip/task_2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.connect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.consumer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_tag.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mainV2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
+    &quot;Python.produser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kozlovalex/Documents/GitHub/python_web_08pip/task_2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/task_2" />
@@ -118,6 +101,23 @@
       <option name="presentableId" value="Default" />
       <updated>1718964525155</updated>
     </task>
+    <task id="LOCAL-00001" summary="first try">
+      <option name="closed" value="true" />
+      <created>1719427339600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719427339600</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first try">
+      <option name="closed" value="true" />
+      <created>1719427980608</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719427980608</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first try" />
+    <option name="LAST_COMMIT_MESSAGE" value="first try" />
   </component>
 </project>
