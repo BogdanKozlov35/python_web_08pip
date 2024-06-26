@@ -7,7 +7,6 @@ config.read('connection/config.ini')
 
 
 def get_connection():
-
     mongo_user = config.get('DB', 'user')
     mongo_pass = config.get('DB', 'pass')
     db_name = config.get('DB', 'db_name')
